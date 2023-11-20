@@ -1,0 +1,8 @@
+{
+  "token":"TOKEN_ROBO",
+  "idadm":["ID_DE_QUEM_MANDA","ID_DE_QUEM_MANDA"],
+  "cargo":"ID_DO_CARGO_STAFF",
+  "log":"ID_DO_CANAL_PARA_OS_RESULTADOS_MENCIONANDO_O_USER",
+  "idservidor":"ID_DO_SERVIDOR",  
+  "logsform":"ID_DO_CANAL_PARA_O_ADM_RECEBER_OS_FORMS"
+}
